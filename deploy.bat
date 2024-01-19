@@ -5,7 +5,7 @@ npm run build
 cd dist
 
 @REM # if you are deploying to a custom domain
-@REM # echo 'www.example.com' > CNAME
+@REM # echo 'www.example.com' -> CNAME
 
 git init
 git add -A
